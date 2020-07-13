@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Trilobyte</title>
-		<link>https://example.com/posts/</link>
+		<link>https://nomalocaris.top/posts/</link>
 		<description>Recent content in Posts on Trilobyte</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Mon, 13 Jul 2020 16:31:29 +0800</lastBuildDate>
-		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://nomalocaris.top/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>HelloWorld</title>
-			<link>https://example.com/posts/helloworld/</link>
+			<link>https://nomalocaris.top/posts/helloworld/</link>
 			<pubDate>Mon, 13 Jul 2020 16:31:29 +0800</pubDate>
 			
-			<guid>https://example.com/posts/helloworld/</guid>
+			<guid>https://nomalocaris.top/posts/helloworld/</guid>
 			<description>Hello world!</description>
 			<content type="html"><![CDATA[<p>Hello world!</p>
 ]]></content>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Trilobyte</title>
-    <link>https://example.com/tags/</link>
+    <link>https://nomalocaris.top/tags/</link>
     <description>Recent content in Tags on Trilobyte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 13 Jul 2020 16:31:29 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nomalocaris.top/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>helloworld</title>
-      <link>https://example.com/tags/helloworld/</link>
+      <link>https://nomalocaris.top/tags/helloworld/</link>
       <pubDate>Mon, 13 Jul 2020 16:31:29 +0800</pubDate>
       
-      <guid>https://example.com/tags/helloworld/</guid>
+      <guid>https://nomalocaris.top/tags/helloworld/</guid>
       <description></description>
     </item>
     
